@@ -1,0 +1,20 @@
+{
+  "name": "qr-code-pix",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "polycrc": "^1.1.1",
+    "qrcode": "^1.5.1"
+  }
+}
